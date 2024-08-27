@@ -1,0 +1,4 @@
+To move to the desktop, press VO-Shift-D.
+To quickly move to an item on the desktop, type the first letter of the item. For example, if you have a file named “travel plans” on the desktop, type “T” to move to it.
+To move around items on the desktop, press the arrow keys.
+To open the selected item on the desktop, press Command-O.
